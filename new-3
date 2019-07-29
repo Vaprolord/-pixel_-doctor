@@ -7,6 +7,8 @@
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/Vaprolord/-pixel_-doctor
+// @updateURL https://github.com/Vaprolord/-pixel_-doctor/blob/master/new-3
+// @downloadURL https://github.com/Vaprolord/-pixel_-doctor/blob/master/new-3
 // @grant        none
 // ==/UserScript==
 
